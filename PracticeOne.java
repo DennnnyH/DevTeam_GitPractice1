@@ -6,7 +6,9 @@ public class PracticeOne {
 
         // A2: multiply 4 times 4 and print the result
 
-        // A3: create an array named "arr" that contains 3, 5, 1, 6, 3, 3
+
+
+            // A3: create an array named "arr" that contains 3, 5, 1, 6, 3, 3
 
         // A4: create a 2D array named "array2D": { {1, 2, 3}, {4, 5, 6} }
 
@@ -22,4 +24,10 @@ public class PracticeOne {
     // (and call it in the main method)
 
     // M4: write a sorting algorithm (and call it in the main method)
+    public static void multiply(int total){
+        total = 4 * 4;
+        System.out.println(total);
+    }
+    
 }
+
